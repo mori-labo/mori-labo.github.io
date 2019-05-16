@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mori Labo
+title: Mori Laboratory, Kagoshima University
 email: furuya@cc.kagoshima-u.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  鹿児島大学 情報生体システム工学科 森研究室 
+  鹿児島大学 工学部 情報生体システム工学科 森研究室 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mori-labo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
@@ -24,7 +24,8 @@ github_username:
 
 # Build settings
 markdown: kramdown
-theme: minima
+##theme: minima
+remote_theme: mmistakes/jekyll-theme-basically-basic
 plugins:
   - jekyll-feed
 
