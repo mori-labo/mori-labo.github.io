@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+About Mori Labo
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+森研究室
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+鹿児島大学 工学部 情報生体システム工学科
+鹿児島大学大学院 理工学研究科 情報生体システム工学専攻
+鹿児島大学 学術情報基盤センター
 
-
-[jekyll-organization]: https://github.com/jekyll
