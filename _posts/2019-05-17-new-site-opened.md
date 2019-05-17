@@ -1,8 +1,12 @@
 ---
 layout: post
 title:  "サイト開設しました"
-categories: ""
+categories: 
+author:
+  name: Tamotsu FURUYA
+  twitter: tamochia
 ---
+
 この度、森研究室のサイトをオンプレのWordPressから、GitHub Pages上に移行しました。
 
 これから随時森研究室のサイトをリニューアルしていきます。
