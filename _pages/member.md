@@ -10,7 +10,7 @@ permalink: /member/
 
 * Kunihiko MORI, Professor
 * Toyohiko SATO, Professor
-* Tamotsu FURUYA, Associate Professor
+* [Tamotsu FURUYA](https://tamosblog.wordpress.com/), Associate Professor
 * Kentaro ODA, Assistant Professor
 
 ## Master's Students

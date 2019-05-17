@@ -3,9 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-About Mori Laboratory
-
 # 森研究室
 
 * 鹿児島大学　工学部　情報生体システム工学科
