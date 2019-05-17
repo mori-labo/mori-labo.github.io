@@ -16,7 +16,7 @@
 lang: ja-JP
 title: Mori Laboratory 
 email:
-description: Mori Laboratory, Kagoshima University.
+description: "Mori Laboratory, Kagoshima University."
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://mori-labo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
@@ -47,7 +47,7 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
+paginate: 5 
 paginate_path: /page:num/
 
 # Exclude from processing.
