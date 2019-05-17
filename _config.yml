@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: ja-JP
-title: Mori Laboratory 
+title: "Mori Laboratory"
+title_separator: "-" 
 email:
 description: "Mori Laboratory, Kagoshima University."
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -83,3 +84,4 @@ defaults:
     values:
       layout: post
       read_time: true
+
