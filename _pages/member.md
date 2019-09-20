@@ -18,7 +18,7 @@ permalink: /member/
 * Shinya OHSAKO
 * Kenichi KUROGI
 * Tatsuhiko NAGASAKA
-* Hiroaki NISHIJIMA
+* Yusuke NISHIJIMA
 
 ## Students
 
