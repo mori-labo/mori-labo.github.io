@@ -1,33 +1,31 @@
 ---
 layout: page
-title: Member 
+title: メンバー
 permalink: /member/
 ---
 
-# Member
+# 2020年度　森研ゼミ
 
-## Faculty
+## 教員
 
-* Kunihiko MORI, Professor
-* Toyohiko SATO, Professor
-* [Tamotsu FURUYA](https://tamosblog.wordpress.com/), Associate Professor
-* Kentaro ODA, Assistant Professor
+* 森　邦彦, 教授
+* 佐藤　豊彦, 教授
+* [古屋　保](https://tamosblog.wordpress.com/), 准教授
+* 小田　謙太郎, 助教
 
-## Master's Students
+## 大学院生
 
-* Shinya OHSAKO
-* Kenichi KUROGI
-* Tatsuhiko NAGASAKA
-* Yusuke NISHIJIMA
+* 大迫　真也
+* 黒木　謙一
+* 永坂　竜彦
+* 西島　裕亮
+* 西川　哲也
 
-## Students
+## 学部生
 
-* Eriko AKASAKA
-* Yoshiki SAWADA
-* Tetsuya NISHIKAWA
-* Takuya HARADA
-* Naoko YOSHIHARA
-
-## Alumni
+* 小八重　潤
+* 佐々木　佑輔
+* 新村　宏
+* 前原　秀志
 
 
