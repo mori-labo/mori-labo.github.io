@@ -1,5 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Member"
+  - title: "メンバー"
     url: /member/
+  - title: "卒業論文等"
+    url: /grad_research/
