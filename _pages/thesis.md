@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 卒業論文等
-permalink: /grad_research/
+permalink: /thesis/
 ---
 
 # 2019年度
