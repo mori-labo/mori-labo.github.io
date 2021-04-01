@@ -260,7 +260,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-feed (~> 0.6)
+  jekyll-feed (~> 0.15)
   jekyll-paginate
   kramdown (>= 2.3.1)
   minima (~> 2.0)
