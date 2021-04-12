@@ -22,7 +22,7 @@ permalink: /member/
 
 ## 学部生(B4)
 
-* 川原　弘暉
+* [川原　弘暉](https://kawazap.github.io/main)
 * 沈　天豪
 * 濱田　龍助
 * 平松　伊織
