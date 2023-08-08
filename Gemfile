@@ -34,5 +34,5 @@ gem "nokogiri", "~> 1.14.3"
 # Suggestions from Github Dependabot. 2020-08-08
 gem "kramdown", ">= 2.3.1"
 
-gem "commonmarker", "~> 0.23.4"
+gem "commonmarker", "~> 0.23.10"
 gem "activesupport", "~> 6.1.7.1"
