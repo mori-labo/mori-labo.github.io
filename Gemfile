@@ -29,8 +29,8 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-# Suggestions for a vulnerability of Nokogiri from GitHub. 2019-08-21
-gem "nokogiri", "~> 1.16.2"
+# Suggestions for a vulnerability of Nokogiri from GitHub. 2024-06-25
+gem "nokogiri", "~> 1.16.5"
 # Suggestions from Github Dependabot. 2020-08-08
 gem "kramdown", ">= 2.3.1"
 
