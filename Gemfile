@@ -41,3 +41,9 @@ gem "activesupport", "~> 6.1.7.5"
 # Modification to error "cannot load such file -- webrick (LoadError)"
 # when executing "bundle exec jekyll serve". 2024-07-30
 gem "webrick" 
+
+## ADD 2025/03/11
+## ruby version upgrade (3.1.3 -> 3.4.2) is the reason.
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
