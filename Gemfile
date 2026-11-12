@@ -36,7 +36,7 @@ gem "kramdown", ">= 2.3.1"
 
 # Suggestions from Github Dependabot. 2023-08-28
 gem "commonmarker", "~> 0.23.10"
-gem "activesupport", "~> 7.2.3.1"
+gem "activesupport", "~> 8.0.5.2"
 
 # Modification to error "cannot load such file -- webrick (LoadError)"
 # when executing "bundle exec jekyll serve". 2024-07-30
